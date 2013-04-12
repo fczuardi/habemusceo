@@ -1,0 +1,20 @@
+#seagul,
+#chimney,
+#smoke,
+#smoke_bg{
+  position: absolute;
+}
+#seagul{
+
+}
+#chimney{
+  top: 120px;
+  left:70px;
+}
+#smoke{
+  width:225px;
+  height:146px;
+  top:60px;
+  left:270px;
+  overflow: hidden;
+}
